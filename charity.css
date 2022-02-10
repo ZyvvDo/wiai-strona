@@ -1,0 +1,43 @@
+#title{
+  background-color: rgb(6, 59, 61);
+  min-height: 5em;
+}
+#title h1{
+  color:#2878c4;
+  font-family:Comic Sans, cursive;
+  text-align: center;
+}
+#banner{
+	clear:both;
+  }
+#menu{
+  background-color:#d4dfe9;  
+  text-align: center;
+  
+  min-height: 10vh;
+}
+.menuItem{
+  margin: 20px 2em 0 1em;
+  line-height: 5em;
+  color:black; 
+}
+.bg-image{
+  text-align: center;
+  color: rgb(117, 34, 34);
+}
+.bg-image1{
+  text-align: center;
+}
+#container{
+  background-color: rgb(6, 59, 61);
+}
+.row{
+  background-color: rgb(6, 59, 61);
+}
+.card{
+  background-color: rgb(192, 21, 21);
+  color: aliceblue;
+}
+#wplaty{
+  text-align: center;
+}
